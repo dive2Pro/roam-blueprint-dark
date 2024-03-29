@@ -549,3 +549,7 @@
 .bp3-dark .rm-search-query .rm-search-query-title {
   background: var(--dark-bg-3);
 }
+
+.bp3-dark .rm-sidebar-window .rm-sidebar > div {
+  background-color: var(--dark-bg) !important;
+}
